@@ -34,7 +34,7 @@ I am a **Software Developer** focused on building practical, intelligent, and se
   <tr>
     <td width="50%" valign="top">
       <h3>Emotion Based AI Music System 🎵🤖 </h3>
-      <p>An intelligent, real-time facial expression recognition and music recommendation platform. The application captures live video from the user's webcam, extracts facial features, classifies emotions via a Deep Convolutional Neural Network (CNN), applies temporal smoothing to eliminate frame flicker, and dynamically streams mood-synchronized music through a modern glassmorphic web player. </p>
+      <p>An intelligent real-time facial expression recognition platform that detects emotions via a CNN and recommends mood-based music through a dynamic glassmorphic web player. </p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Intelligent & Autonomous Systems</h3>
