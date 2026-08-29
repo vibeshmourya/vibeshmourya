@@ -32,10 +32,10 @@ I am a **Software Developer** focused on building practical, intelligent, and se
 
 <table>
   <tr>
-    <!-- <td width="50%" valign="top">
-      <h3>👁️ Computer Vision & Analytics</h3>
-      <p>Real-time video processing pipelines, human & vehicle detection, surveillance intelligence, and object tracking systems optimized for accuracy and throughput.</p>
-    </td> -->
+    <td width="50%" valign="top">
+      <h3>Emotion Based AI Music System 🎵🤖 </h3>
+      <p>An intelligent, real-time facial expression recognition and music recommendation platform. The application captures live video from the user's webcam, extracts facial features, classifies emotions via a Deep Convolutional Neural Network (CNN), applies temporal smoothing to eliminate frame flicker, and dynamically streams mood-synchronized music through a modern glassmorphic web player. </p>
+    </td>
     <td width="50%" valign="top">
       <h3>🤖 Intelligent & Autonomous Systems</h3>
       <p>Voice-driven personal assistants, conversational interfaces, automated command execution workflows, and AI-assisted tooling.</p>
@@ -142,7 +142,7 @@ I am a **Software Developer** focused on building practical, intelligent, and se
         <code>Python</code> <code>Image Processing</code> <code>Machine Learning</code> <code>UI/UX</code>
       </td>
       <td>
-        <a href="YOUR_REPOSITORY_URL">📂 Repository</a><br>
+        <a href="https://github.com/vibeshmourya/AI-Image-Editing-Enhancement-Studio.git">📂 Repository</a><br>
         <a href="YOUR_LIVE_DEMO_URL">🌐 Demo</a>
       </td>
     </tr>
