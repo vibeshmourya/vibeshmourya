@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vibesh-mourya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vibeshstr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white&border=true" alt="Portfolio" /></a>
+  <a href="https://vibesh-mourya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white&border=true" alt="Portfolio" /></a>
   <a href="https://github.com/vibeshmourya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -223,7 +223,7 @@ I am always open to discussing software engineering opportunities, AI/ML researc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vibesh_Mourya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibesh-mourya/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibeshstr@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vibesh-mourya-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibeshmourya)
 
 </div>
