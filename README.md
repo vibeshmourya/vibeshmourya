@@ -193,27 +193,67 @@ I am a **Software Developer** focused on building practical, intelligent, and se
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vibeshmourya">
-        <img src="https://github-readme-stats.vercel.app/api?username=vibeshmourya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="Vibesh's GitHub Stats" width="410" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vibeshmourya?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibeshmourya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="370" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/vibeshmourya">
-        <img src="https://streak-stats.demolab.com/?user=vibeshmourya&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=79C0FF" alt="GitHub Streak" width="790" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     GITHUB OVERVIEW                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/vibeshmourya">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vibeshmourya&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&rank_icon=github"
+    alt="Vibesh Mourya GitHub Statistics"
+    width="495"
+  />
+</a>
+
+<a href="https://github.com/vibeshmourya?tab=repositories">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibeshmourya&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    alt="Vibesh Mourya Top Languages"
+    width="330"
+  />
+</a>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       STREAK                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/vibeshmourya">
+  <img
+    src="https://streak-stats.demolab.com/?user=vibeshmourya&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=79C0FF&sideLabels=79C0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"
+    alt="Vibesh Mourya GitHub Streak"
+    width="830"
+  />
+</a>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION ACTIVITY                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/vibeshmourya">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vibeshmourya&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=79C0FF&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    alt="Vibesh Mourya Contribution Activity Graph"
+    width="830"
+  />
+</a>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       QUICK LINKS                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/vibeshmourya?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" />
+</a>
+
+<a href="https://github.com/vibeshmourya?tab=stars">
+  <img src="https://img.shields.io/badge/VIEW%20STARRED%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=79C0FF&labelColor=0D1117" />
+</a>
 
 </div>
 
