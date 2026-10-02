@@ -19,6 +19,7 @@
 
 ## 📌 Executive Summary
 
+<<<<<<< HEAD
 <table>
 <tr>
 <td width="68%" valign="top">
@@ -45,6 +46,15 @@ I am a **Software Developer** focused on building practical, intelligent, and se
 </tr>
 </table>
 
+=======
+I am a **Software Developer** focused on building practical, intelligent, and secure software solutions. My work revolves around developing real-world applications by combining **Artificial Intelligence, Computer Vision, Cyber Security, and Full-Stack Engineering**.
+
+- 🔭 **Core Focus:** AI/ML Applications, Computer Vision Pipelines, Intelligent Systems & Full-Stack Development.
+- 🔐 **Development Mindset:** Prioritizing secure architecture, clean code, and reliable problem-solving for real-world utility.
+- 💡 **Methodology:** Practical hands-on development — building systems, diagnosing failure modes, and continuous iteration.
+- 💬 **Ask me about:** Python, OpenCV, Computer Vision, Voice Assistants, Security-focused software, and Web Development.
+
+>>>>>>> 08f68f6cada7abbfe0272449502621c4d6511d5b
 ---
 
 ## 🎯 What I Build
@@ -283,4 +293,8 @@ I am always open to discussing software engineering opportunities, AI/ML researc
 
 <div align="center">
   <sub>Designed with precision & care • <b>Always learning. Always building.</b></sub>
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> 08f68f6cada7abbfe0272449502621c4d6511d5b
