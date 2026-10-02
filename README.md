@@ -38,7 +38,7 @@ I am a **Software Developer** focused on building practical, intelligent, and se
 <td width="32%" valign="top" align="center">
 
 <a href="https://github.com/vibeshmourya">
-<img src="./assets/profile-card.svg" width="300" alt="Vibesh Mourya Profile Card">
+<img src="./assets/profile-card.png" width="300" alt="Vibesh Mourya Profile Card">
 </a>
 
 </td>
