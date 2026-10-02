@@ -1,0 +1,484 @@
+<svg width="360" height="470"
+     viewBox="0 0 360 470"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- ========================================= -->
+    <!-- ROUNDED CARD CLIP -->
+    <!-- ========================================= -->
+
+    <clipPath id="cardClip">
+      <rect
+        x="7"
+        y="7"
+        width="346"
+        height="456"
+        rx="45"
+        ry="45"
+      />
+    </clipPath>
+
+
+    <!-- ========================================= -->
+    <!-- DARK CINEMATIC OVERLAY -->
+    <!-- NO BLUE / PURPLE / PINK -->
+    <!-- ========================================= -->
+
+    <linearGradient
+      id="darkOverlay"
+      x1="0"
+      y1="0"
+      x2="0"
+      y2="1">
+
+      <stop
+        offset="0%"
+        stop-color="#000000"
+        stop-opacity="0.18"/>
+
+      <stop
+        offset="45%"
+        stop-color="#000000"
+        stop-opacity="0.02"/>
+
+      <stop
+        offset="100%"
+        stop-color="#000000"
+        stop-opacity="0.62"/>
+
+    </linearGradient>
+
+
+    <!-- ========================================= -->
+    <!-- WHITE GLASS GRADIENT -->
+    <!-- NO COLOR TINT -->
+    <!-- ========================================= -->
+
+    <linearGradient
+      id="glass"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="1">
+
+      <stop
+        offset="0%"
+        stop-color="#ffffff"
+        stop-opacity="0.18"/>
+
+      <stop
+        offset="30%"
+        stop-color="#ffffff"
+        stop-opacity="0.05"/>
+
+      <stop
+        offset="60%"
+        stop-color="#ffffff"
+        stop-opacity="0.015"/>
+
+      <stop
+        offset="100%"
+        stop-color="#ffffff"
+        stop-opacity="0.14"/>
+
+    </linearGradient>
+
+
+    <!-- ========================================= -->
+    <!-- NEUTRAL GLASS BORDER -->
+    <!-- NO BLUE / PURPLE -->
+    <!-- ========================================= -->
+
+    <linearGradient
+      id="border"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="1">
+
+      <stop
+        offset="0%"
+        stop-color="#ffffff"
+        stop-opacity="0.85"/>
+
+      <stop
+        offset="35%"
+        stop-color="#d8d8d8"
+        stop-opacity="0.55"/>
+
+      <stop
+        offset="65%"
+        stop-color="#ffffff"
+        stop-opacity="0.30"/>
+
+      <stop
+        offset="100%"
+        stop-color="#bcbcbc"
+        stop-opacity="0.65"/>
+
+    </linearGradient>
+
+
+    <!-- ========================================= -->
+    <!-- BUTTON -->
+    <!-- ========================================= -->
+
+    <linearGradient
+      id="button"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="0">
+
+      <stop
+        offset="0%"
+        stop-color="#ffffff"/>
+
+      <stop
+        offset="50%"
+        stop-color="#f4f4f4"/>
+
+      <stop
+        offset="100%"
+        stop-color="#dddddd"/>
+
+    </linearGradient>
+
+
+    <!-- ========================================= -->
+    <!-- CARD SHADOW -->
+    <!-- ========================================= -->
+
+    <filter
+      id="shadow"
+      x="-30%"
+      y="-30%"
+      width="160%"
+      height="170%">
+
+      <feDropShadow
+        dx="0"
+        dy="15"
+        stdDeviation="17"
+        flood-color="#000000"
+        flood-opacity="0.45"/>
+
+    </filter>
+
+
+    <!-- ========================================= -->
+    <!-- BUTTON SHADOW -->
+    <!-- ========================================= -->
+
+    <filter
+      id="buttonShadow"
+      x="-20%"
+      y="-30%"
+      width="140%"
+      height="170%">
+
+      <feDropShadow
+        dx="0"
+        dy="5"
+        stdDeviation="7"
+        flood-color="#000000"
+        flood-opacity="0.30"/>
+
+    </filter>
+
+  </defs>
+
+
+  <!-- ========================================= -->
+  <!-- MAIN CARD BACKGROUND -->
+  <!-- ========================================= -->
+
+  <rect
+    x="7"
+    y="7"
+    width="346"
+    height="456"
+    rx="45"
+    ry="45"
+    fill="#111111"
+    filter="url(#shadow)"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- FULL CARD PROFILE IMAGE -->
+  <!-- ========================================= -->
+
+  <image
+    href="profile.jpeg"
+    x="7"
+    y="7"
+    width="346"
+    height="456"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#cardClip)"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- DARK IMAGE OVERLAY -->
+  <!-- ========================================= -->
+
+  <rect
+    x="7"
+    y="7"
+    width="346"
+    height="456"
+    rx="45"
+    ry="45"
+    fill="url(#darkOverlay)"
+    clip-path="url(#cardClip)"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- WHITE LIQUID GLASS REFLECTION -->
+  <!-- NO COLOR -->
+  <!-- ========================================= -->
+
+  <path
+    d="
+      M35 42
+      C90 15 270 15 325 42
+      C275 67 85 67 35 42
+      Z
+    "
+    fill="#ffffff"
+    opacity="0.10"
+    clip-path="url(#cardClip)"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- LARGE SOFT GLASS REFLECTION -->
+  <!-- NO BLUE / PURPLE -->
+  <!-- ========================================= -->
+
+  <ellipse
+    cx="180"
+    cy="160"
+    rx="155"
+    ry="120"
+    fill="#ffffff"
+    opacity="0.025"
+    clip-path="url(#cardClip)"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- LIQUID GLASS WAVE -->
+  <!-- WHITE ONLY -->
+  <!-- ========================================= -->
+
+  <path
+    d="
+      M7 350
+      C70 325 115 335 160 355
+      C215 380 275 350 353 315
+      L353 463
+      L7 463
+      Z
+    "
+    fill="#ffffff"
+    opacity="0.045"
+    clip-path="url(#cardClip)"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- SECOND GLASS WAVE -->
+  <!-- ========================================= -->
+
+  <path
+    d="
+      M7 390
+      C75 365 125 380 170 398
+      C225 420 285 390 353 360
+      L353 463
+      L7 463
+      Z
+    "
+    fill="#ffffff"
+    opacity="0.025"
+    clip-path="url(#cardClip)"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- NAME -->
+  <!-- ========================================= -->
+
+  <text
+    x="180"
+    y="330"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="27"
+    font-weight="700"
+    letter-spacing="0.2">
+
+    Vibesh Mourya
+
+  </text>
+
+
+  <!-- ========================================= -->
+  <!-- USERNAME -->
+  <!-- ========================================= -->
+
+  <text
+    x="180"
+    y="359"
+    text-anchor="middle"
+    fill="#e0e0e0"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="400">
+
+    @vibeshmourya
+
+  </text>
+
+
+  <!-- ========================================= -->
+  <!-- FOLLOW BUTTON -->
+  <!-- ========================================= -->
+
+  <a
+    href="https://github.com/vibeshmourya"
+    target="_blank">
+
+    <rect
+      x="40"
+      y="394"
+      width="280"
+      height="50"
+      rx="25"
+      ry="25"
+      fill="url(#button)"
+      filter="url(#buttonShadow)"
+    />
+
+
+    <!-- Button Highlight -->
+
+    <rect
+      x="41"
+      y="395"
+      width="278"
+      height="23"
+      rx="20"
+      ry="20"
+      fill="#ffffff"
+      opacity="0.22"
+    />
+
+
+    <!-- Follow Text -->
+
+    <text
+      x="164"
+      y="426"
+      text-anchor="middle"
+      fill="#111111"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="16"
+      font-weight="700">
+
+      Follow
+
+    </text>
+
+
+    <!-- Plus Icon -->
+
+    <path
+      d="
+        M220 418
+        L220 432
+
+        M213 425
+        L227 425
+      "
+      stroke="#111111"
+      stroke-width="2.5"
+      stroke-linecap="round"
+    />
+
+  </a>
+
+
+  <!-- ========================================= -->
+  <!-- OUTER CURVED GLASS BORDER -->
+  <!-- ========================================= -->
+
+  <rect
+    x="8"
+    y="8"
+    width="344"
+    height="454"
+    rx="44"
+    ry="44"
+    fill="none"
+    stroke="url(#border)"
+    stroke-width="3"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- INNER CURVED GLASS BORDER -->
+  <!-- ========================================= -->
+
+  <rect
+    x="14"
+    y="14"
+    width="332"
+    height="442"
+    rx="38"
+    ry="38"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.18"
+    stroke-width="1"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- TOP GLASS SHINE -->
+  <!-- ========================================= -->
+
+  <path
+    d="
+      M45 35
+      C100 14 260 14 315 35
+      C270 50 90 50 45 35
+      Z
+    "
+    fill="#ffffff"
+    opacity="0.08"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- BOTTOM GLASS REFLECTION -->
+  <!-- ========================================= -->
+
+  <path
+    d="
+      M45 438
+      C110 417 250 417 315 438
+      C260 454 100 454 45 438
+      Z
+    "
+    fill="#ffffff"
+    opacity="0.07"
+  />
+
+</svg>
