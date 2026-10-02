@@ -230,20 +230,6 @@ I am a **Software Developer** focused on building practical, intelligent, and se
 <br><br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION ACTIVITY                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/vibeshmourya">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vibeshmourya&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=79C0FF&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    alt="Vibesh Mourya Contribution Activity Graph"
-    width="830"
-  />
-</a>
-
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       QUICK LINKS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
