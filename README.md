@@ -231,8 +231,29 @@ I am always open to discussing software engineering opportunities, AI/ML researc
 <hr/>
 
 <div align="center">
-  <sub>Designed with precision &amp; care</sub>
-  <br/>
-  <strong>Always learning. Always building.</strong>
-</div>
 
+  <br/>
+
+  <p>
+    <sub>✦ &nbsp; BUILT WITH INTENTION &nbsp; ✦</sub>
+  </p>
+
+  <h2>Designed with precision.<br/>Built with passion.</h2>
+
+  <p>
+    <sub>
+      Always learning &nbsp;·&nbsp;
+      Always building &nbsp;·&nbsp;
+      Always evolving
+    </sub>
+  </p>
+
+  <br/>
+
+  <p>
+    <sub>Thanks for visiting my corner of GitHub ♡</sub>
+  </p>
+
+  <br/>
+
+</div>
