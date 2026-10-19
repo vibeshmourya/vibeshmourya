@@ -226,14 +226,13 @@ I am always open to discussing software engineering opportunities, AI/ML researc
 
 ---
 
+
+<br/>
+<hr/>
+
 <div align="center">
-
-  <h2>Designed with precision &amp; care.</h2>
-
-  <p>
-    <strong>Always learning. Always building.</strong>
-  </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Building+ideas+into+reality;Learning+something+new+every+day;Focused+on+clean+code+and+great+design" alt="Typing SVG" />
-
+  <sub>Designed with precision &amp; care</sub>
+  <br/>
+  <strong>Always learning. Always building.</strong>
 </div>
+
