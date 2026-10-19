@@ -225,11 +225,6 @@ I am always open to discussing software engineering opportunities, AI/ML researc
 </div>
 
 ---
-
 <div align="center">
-  <sub>Designed with precision & care • <b>Always learning. Always building.</b></sub>
-<!-- <<<<<<< HEAD
+  <sub>Designed with precision &amp; care • <b>Always learning. Always building.</b></sub>
 </div>
-=======
-</div>
->>>>>>> 08f68f6cada7abbfe0272449502621c4d6511d5b -->
