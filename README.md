@@ -225,9 +225,6 @@ I am always open to discussing software engineering opportunities, AI/ML researc
 </div>
 
 ---
-
-
-<br/>
 <hr/>
 
 <div align="center">
